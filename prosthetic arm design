@@ -1,0 +1,2 @@
+This is the design of prosthetic arm that allows 6dofs and are actuated using the HG945 servo motors which run with power of about 5v. This allows for a smoother actuation of the fingers. 
+This is a modification of the open source design from INMOOV. 
